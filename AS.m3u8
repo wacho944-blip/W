@@ -26,6 +26,12 @@ http://170.233.192.234:8112/play/032
 #EXTINF:-1,history 2 (2) ==> FOUND ON SEARCHTV.NET
 http://45.184.87.142:8000/play/a03w
 
+#EXTINF:-1,WARNER MX ==> FOUND ON SEARCHTV.NET
+http://170.78.211.125:8000/play/a0cf/index.m3u8
+
+#EXTINF:-1,081 Warner Channel HD AR ==> FOUND ON SEARCHTV.NET
+http://170.233.192.234:8112/play/081
+
 #EXTINF:-1,HBO HD VE ==> FOUND ON SEARCHTV.NET
 http://38.41.8.1:8000/play/a0ro
 
