@@ -38,8 +38,11 @@ http://170.233.192.234:8112/play/021
 #EXTINF:-1,HBO 2 MX ==> FOUND ON SEARCHTV.NET
 http://45.177.179.227:8000/play/a02h/index.m3u8
 
-#EXTINF:-1,HBO Plus (0at5j7ar) ==> FOUND ON SEARCHTV.NET
+#EXTINF:-1,HBO Plus CL ==> FOUND ON SEARCHTV.NET
 http://38.7.101.90:8000/play/a1fo/index.m3u8
+
+#EXTINF:-1,HBO + MX ==> FOUND ON SEARCHTV.NET
+http://45.177.179.227:8000/play/a02l/index.m3u8
 
 #EXTINF:-1,Space HD (0adkropa) ==> FOUND ON SEARCHTV.NET
 http://200.60.124.19:29000/play/a0h6/index.m3u8
