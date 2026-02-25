@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Adult Swim HD (1) ==> FOUND ON SEARCHTV.NET
-http://181.78.12.119:16123/play/ch75/index.m3u8
+#EXTINF:-1,Adult Swim HD
+http://45.189.151.7:8000/play/a06h
 
 #EXTINF:-1,Cartoon Network HD (1) ==> FOUND ON SEARCHTV.NET
-http://45.167.255.254:8010/play/a016/index.m3u8
+http://45.189.62.33:8002/play/a0c0/index.m3u8
 
 #EXTINF:-1,Nick HD (1) ==> FOUND ON SEARCHTV.NET
 http://186.145.137.48:8000/play/NICK
