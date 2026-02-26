@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Adult Swim HD
+
+#EXTINF:-1 group-title="TV",Adult Swim
 http://45.189.151.7:8000/play/a06h
 
 #EXTINF:-1,Cartoon Network HD (1) ==> FOUND ON SEARCHTV.NET
